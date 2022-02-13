@@ -23,13 +23,13 @@
         "MarsBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/RHns20/MarsBOT-MD",
+    "homepage": "https://github.com/Klebitz12890/MarsBOT-MD",
     "author": {
         "name": "RHns"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/RHns20/MarsBOT-MD.git"
+        "url": "git+https://github.com/Klebitz12890/MarsBOT-MD.git"
     },
     "bugs": {
         "url": "https://github.com/RHns20/MarsBOT-MD/issues"
