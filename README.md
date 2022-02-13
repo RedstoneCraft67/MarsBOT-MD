@@ -108,7 +108,7 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/shir
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/RHns20/MarsBOT-MD
+git clone https://github.com/Klebitz12890/MarsBOT-MD
 cd MarsBOT-MD
 npm install
 npm update
@@ -120,12 +120,12 @@ npm index
 ## UNTUK PENGGUNA TERMUX
 ```bash
 pkg update && pkg upgrade
-pkg install git
-pkg install nodejs
-pkg install ffmpeg
-pkg install imagemagick
-pkg install yarn
-git clone https://github.com/RHns20/MarsBOT-MD
+pkg install git -y
+pkg install nodejs -y
+pkg install ffmpeg -y
+pkg install imagemagick -y
+pkg install yarn -y
+git clone https://github.com/Klebitz12890/MarsBOT-MD
 cd MarsBOT-MD
 yarn
 node .
@@ -156,7 +156,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 # Thanks to
  [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming) | [![RHns](https://github.com/RHns20.png?size=150)](https://github.com/RHns20)
 ----|----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ilman](https://github.com/ilmanhdyt) | [Istikmal](https://github.com/BochilGaming) | [RHns](https://github.com/RHns20)
+[Nurutomo](https://github.com/Nurutomo) | [Ilman](https://github.com/ilmanhdyt) | [Istikmal](https://github.com/BochilGaming) | [RHns](https://github.com/RHns20) | [Klebitz](https://github.com/Klebitz12890)
  Author | yg nambah fitur | yg punya sc | Nambah Fitur
 
 ## Donate
