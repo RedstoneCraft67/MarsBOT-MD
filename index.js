@@ -9,7 +9,7 @@ const yargs = require('yargs/yargs')
 const rl = Readline.createInterface(process.stdin, process.stdout)
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"
 
-CFonts.say('ShiraoriBOT\nMulti-device ', {
+CFonts.say('KlebitzBOT\nMulti-device ', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
