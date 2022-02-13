@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6281211006838'] // Put your number here
+global.owner = ['6281211006838', '6282260691984', '6282124128334] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -13,7 +13,7 @@ global.APIs = { // API Prefix
   amel: 'https://melcanz.com',
   lol: 'https://api.lolhuman.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
+  zeks: 'https://zeks.me',
   pencarikode: 'https://pencarikode.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
@@ -25,7 +25,7 @@ global.APIKeys = { // APIKey Here
   'https://melcanz.com': 'apikeylu',
   'https://api.lolhuman.xyz': 'apikeylu',
   'https://zahirr-web.herokuapp.com': 'apikeylu',
-  'https://api.zeks.me': 'apikeylu',
+  'https://zeks.me': 'apikeylu',
   'https://pencarikode.xyz': 'apikeylu',
   'https://leyscoders-api.herokuapp.com': 'apikeylu'
 }
