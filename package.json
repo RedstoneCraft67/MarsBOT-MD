@@ -1,7 +1,7 @@
 {
     "name": "MarsBOT-MD",
-    "version": "0.4.5",
-    "description": "MarsBOT-MD Beta",
+    "version": "3.5.2",
+    "description": "MarsBOT-MD",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -25,7 +25,7 @@
     ],
     "homepage": "https://github.com/Klebitz12890/MarsBOT-MD",
     "author": {
-        "name": "RHns"
+        "name": "Klebitz"
     },
     "repository": {
         "type": "git",
