@@ -1,7 +1,7 @@
 {
-    "name": "MarsBOT-MD",
+    "name": "KlebitzBOT-MD",
     "version": "3.5.2",
-    "description": "MarsBOT-MD",
+    "description": "KlebitzBOT-MD",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -32,7 +32,7 @@
         "url": "git+https://github.com/Klebitz12890/MarsBOT-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/RHns20/MarsBOT-MD/issues"
+        "url": "https://github.com/mateuscdor/MarsBOT-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
