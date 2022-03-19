@@ -25,7 +25,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-┌ 「 *MarsBOT-MD* 」
+┌ 「 *RGBotz-MD* 」
 │❑ Version: %version
 │❑ Library: Baileys-MD
 │❑ Mode: ${global.opts['self'] ? 'Self' : 'Publik'}
